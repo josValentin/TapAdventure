@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "406465546774",
+    "firebase_url": "https://tap-adventure-32429351.firebaseio.com",
+    "project_id": "tap-adventure-32429351",
+    "storage_bucket": "tap-adventure-32429351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406465546774:android:b73cc5fccd64ba3074c337",
+        "android_client_info": {
+          "package_name": "com.Mobile3B.TapAdventure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406465546774-36641456jsc69gj9pdb6r7miblime35o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Gqq0ANN1OdiqrovjpZXs5MrSyldTf48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406465546774-36641456jsc69gj9pdb6r7miblime35o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

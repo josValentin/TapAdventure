@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3907cb6284b0dea4ea8034f831027703, type: 3}
+  m_Name: ManagerVarsContainer
+  m_EditorClassIdentifier: 
+  bgThemeSpriteList:
+  - {fileID: 21300000, guid: 1d89c188fd943de4b99d480328a97808, type: 3}
+  - {fileID: 21300000, guid: 7dde63fc2099c76489d12871d06e205f, type: 3}
+  - {fileID: 21300000, guid: a4e5419402881864fad8e9523cad20fc, type: 3}
+  - {fileID: 21300000, guid: 28d722e3a8a812d4f9603e7a0130277e, type: 3}
+  platformThemeSpriteList:
+  - {fileID: 1323201200619022550, guid: 44ecd78ab138539428875e55cce5e8f5, type: 3}
+  - {fileID: 3491002976589547371, guid: 44ecd78ab138539428875e55cce5e8f5, type: 3}
+  - {fileID: 5496974297521688703, guid: 44ecd78ab138539428875e55cce5e8f5, type: 3}
+  - {fileID: 7410828486679846702, guid: 44ecd78ab138539428875e55cce5e8f5, type: 3}
+  skinSpriteList:
+  - {fileID: -2605977348794822665, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: -931702447137525241, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: 3683626985609309298, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: -838137135277248337, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: 2181534760363836321, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: 4493635634569402111, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: 5195448141340609889, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: -6342569149637548176, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: -5411967134418602485, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: 5045493808210958036, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: 6409588467926150662, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: 8596290021352738080, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: -4812994750391848865, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  characterSkinSpriteList:
+  - {fileID: 8586053531878975372, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: -1611845987113057013, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: 2248701481840880432, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: 1265199735073813860, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: -866803759399397254, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: -806617752273818043, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: -6638183526590392320, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: -1862726524175666790, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: -1918431567187359477, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: 4860941254074040022, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: -2192663188439083780, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: 527515141739015834, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  - {fileID: 420553729670035417, guid: 1711088ca87e4164aaee07f4bfddef29, type: 3}
+  characterPre: {fileID: 1509835272556102, guid: b47bb687b1f44bc4fae186f25c282470,
+    type: 3}
+  skinChooseItemPre: {fileID: 1821422943329126, guid: 31337478ab45e824fb96aa8b4d5b9e47,
+    type: 3}
+  skinNameList:
+  - Tom
+  - Elf
+  - Skeleton
+  - Hulk
+  - Ninja
+  - Knight
+  - Sponge Bob
+  - Zombie
+  - St. Patrick
+  - Luigi
+  - Mario
+  - Sonic
+  - The Flash
+  skinPrice: 010000000100000064000000c80000002c01000090010000f4010000ee020000e8030000e8030000e2040000e2040000dc050000
+  normalPlatformPre: {fileID: 1707789333618926, guid: 6463255dbe7d82a4dafa5afe8639f1b5,
+    type: 3}
+  commonPlatformGroup:
+  - {fileID: 1718202181510176, guid: 03822589b3646994198e9bc0f7842616, type: 3}
+  - {fileID: 1060829081277170, guid: 911f5eddba9f9a547a36f873855154d1, type: 3}
+  - {fileID: 1862529822596274, guid: 77d6754891a12a94ba01a3b658021ec3, type: 3}
+  - {fileID: 1505930955668414, guid: 530fc684d95be154a906273ddaa2f96d, type: 3}
+  grassPlatformGroup:
+  - {fileID: 1189566386295524, guid: 7cff1ef5dba437c469dfe6f84ec04f5c, type: 3}
+  - {fileID: 1552161325273618, guid: 0268eb9dbc42fef429b565ca74b7b3b1, type: 3}
+  winterPlatformGroup:
+  - {fileID: 1370544064376614, guid: 1ca84a38f735ec84ba5ca2a31fc441a5, type: 3}
+  - {fileID: 1989976659917776, guid: 2b64d0d0a0d0d6c468f58d246222415b, type: 3}
+  - {fileID: 1648357431825086, guid: 4093d62a5e76d5743a4222f96b4a83b7, type: 3}
+  spikePlatformLeft: {fileID: 1307385245424574, guid: 1218ee35c8e636a449e5a21e6ab1d3bd,
+    type: 3}
+  spikePlatformRight: {fileID: 1147806299915752, guid: 18add40332af93a4aa72d8c27d92f639,
+    type: 3}
+  deathEffect: {fileID: 1347158072813704, guid: ca27b5001907967438cdb281f0849b8e,
+    type: 3}
+  diamondPre: {fileID: 1540593330715708, guid: b52ab2e147cffb744acec4ece727f8e5, type: 3}
+  nextXPos: 0.554
+  nextYPos: 0.645
+  DiamondsSpritesList:
+  - {fileID: 21300000, guid: 2db84be62bbc2f149823b11f241b3a94, type: 3}
+  - {fileID: 21300000, guid: 85f052f533f84184abd4a583f7818fe3, type: 3}
+  - {fileID: 21300000, guid: af027e71077f05b4a84dd20fce8603b8, type: 3}
+  jumpClip: {fileID: 8300000, guid: a07e7d5471e1e064fba0717467121bcc, type: 3}
+  hitClip: {fileID: 8300000, guid: 58036858fa184e44cbeb01894c87e6fa, type: 3}
+  errorClip: {fileID: 8300000, guid: 716f1497cecbc1a4a8fe502e80062666, type: 3}
+  diamondClip: {fileID: 8300000, guid: e86d628ae2bb99c43805e503b83ce21e, type: 3}
+  diamondClip2: {fileID: 8300000, guid: c2425812c90c7a8439cf4bba2088a2f5, type: 3}
+  diamondClip3: {fileID: 8300000, guid: 337910531fd383d4f8d18b8404e47483, type: 3}
+  buttonClip: {fileID: 8300000, guid: 43f93bf9979e34d46a862c1fe448a414, type: 3}
+  rewardClip: {fileID: 8300000, guid: 3ba130cf298059f488487ba2f1c2e85b, type: 3}
+  FallsDeath:
+  - {fileID: 8300000, guid: b0c298eb900252b4483bf2d557991586, type: 3}
+  - {fileID: 8300000, guid: 2c7dc4466a66a8744a217ad78d143749, type: 3}
+  - {fileID: 8300000, guid: 80ccda311e86a804a94b1c342e86b9ec, type: 3}
+  - {fileID: 8300000, guid: 6062b522545790e4498c4478326e318b, type: 3}
+  - {fileID: 8300000, guid: f4dcfc9e80d74ed40b20b6c089eb06b1, type: 3}
+  - {fileID: 8300000, guid: 4674d3c202cbf3f479b6fc37dcdc7d6a, type: 3}
+  - {fileID: 8300000, guid: 0f5c977fc5b1cf94d906f15dd0735e11, type: 3}
+  - {fileID: 8300000, guid: 279cd2f3bca7c0b4b8454a09a58bb36d, type: 3}
+  - {fileID: 8300000, guid: 2b5e198b6a30930459bd9b5af5545bc0, type: 3}
+  - {fileID: 8300000, guid: 161c191b9e014ff4c9664d430283ac28, type: 3}
+  - {fileID: 8300000, guid: f47d442210ee4864188c0a799258946b, type: 3}
+  - {fileID: 8300000, guid: 308e2af5b7bfc3e4f953acb07328c60d, type: 3}
+  - {fileID: 8300000, guid: 610a70fea5e630d44a6f84db2acafc3a, type: 3}
+  SpongeBob2: {fileID: 8300000, guid: 08fa9e307781b454b8737dbf304deb84, type: 3}
+  SpongeBob3: {fileID: 8300000, guid: 1a451314487ff9541b32e358cd83dfcb, type: 3}
+  Music:
+  - {fileID: 8300000, guid: d819891357ce22048b09c23a9b767af6, type: 3}
+  - {fileID: 8300000, guid: 1a9dbf73066e6814493204303121bae0, type: 3}
+  SpritesButtonsSkills:
+  - {fileID: 21300000, guid: 34ab18a39700a0748a43a0379a3d5a25, type: 3}
+  musicOn: {fileID: 21300000, guid: 95b20d8a0bda8324bb68c78c9e50479c, type: 3}
+  musicOff: {fileID: 21300002, guid: 95b20d8a0bda8324bb68c78c9e50479c, type: 3}
+  menuMusicOff: {fileID: 21300000, guid: 74cde6e6899056547bbd89c8e74f4ea5, type: 3}
+  menuMusicOn: {fileID: 21300000, guid: 3881a589da314734096a8ebe09c4e236, type: 3}
+  LanguageFlagsSPrites:
+  - {fileID: 8048243636336311465, guid: 8aab2d0cef7236241a45fe6483803f13, type: 3}
+  - {fileID: 7431214210594858505, guid: 8aab2d0cef7236241a45fe6483803f13, type: 3}
+  - {fileID: -5503472963105873086, guid: 8aab2d0cef7236241a45fe6483803f13, type: 3}
+  - {fileID: 1852152299444112906, guid: 8aab2d0cef7236241a45fe6483803f13, type: 3}
+  - {fileID: -2770537091396785458, guid: 8aab2d0cef7236241a45fe6483803f13, type: 3}
+  OnStart: 1
+  RemoveAds: 0

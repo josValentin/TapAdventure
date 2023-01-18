@@ -1,0 +1,32 @@
+<dependencies>
+  <packages>
+    <package>com.google.android.gms:play-services-ads:19.2.0</package>
+    <package>com.google.firebase:firebase-analytics:17.4.1</package>
+    <package>com.google.firebase:firebase-app-unity:6.15.2</package>
+    <package>com.google.firebase:firebase-common:19.3.0</package>
+    <package>com.google.firebase:firebase-messaging:20.1.7</package>
+    <package>com.google.firebase:firebase-messaging-unity:6.15.2</package>
+    <package>com.google.games:gpgs-plugin-support:0.10.09</package>
+  </packages>
+  <files>
+    <file>Assets/Plugins/Android/androidx.annotation.annotation-1.1.0.jar</file>
+    <file>Assets/Plugins/Android/androidx.arch.core.core-common-2.0.0.jar</file>
+    <file>Assets/Plugins/Android/androidx.arch.core.core-runtime-2.0.0.aar</file>
+    <file>Assets/Plugins/Android/androidx.asynclayoutinflater.asynclayoutinflater-1.0.0.aar</file>
+    <file>Assets/Plugins/Android/com.google.android.gms.play-services-ads-19.2.0.aar</file>
+  </files>
+  <settings>
+    <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+    <setting name="bundleId" value="com.Mobile3B.TapAdventure" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradleTemplateEnabled" value="False" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="False" />
+    <setting name="useJetifier" value="True" />
+  </settings>
+</dependencies>

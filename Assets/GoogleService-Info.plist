@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>406465546774-1518ak8gjb4f3o4la1raj4gr6olno297.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.406465546774-1518ak8gjb4f3o4la1raj4gr6olno297</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>406465546774-b4vi32rko37qtb1av6o0kp0fhglmcmma.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBvq9gTZYSnaD-cl6GKdEBFHz3QABmGQe8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>406465546774</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Mobile3B.TapAdventure</string>
+	<key>PROJECT_ID</key>
+	<string>tap-adventure-32429351</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tap-adventure-32429351.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:406465546774:ios:dad4f66a768c199174c337</string>
+	<key>DATABASE_URL</key>
+	<string>https://tap-adventure-32429351.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-4710545068159097~8890396275</string>
+</dict>
+</plist>
